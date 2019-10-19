@@ -32,7 +32,7 @@ Implementation of DFS in program:
 
 Graph Used:
 
-
+![Image-DFS](https://user-images.githubusercontent.com/56750272/67140233-40e01200-f276-11e9-8a44-17e690b4480d.PNG)
 
  
 Output: Is Cycle present : true.
